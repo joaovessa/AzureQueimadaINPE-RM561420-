@@ -25,3 +25,4 @@ azure-credentials.json
 # Python cache
 **/__pycache__/
 *.pyc
+azure-credentials-min.json
