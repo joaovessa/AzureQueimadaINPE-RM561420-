@@ -26,3 +26,4 @@ azure-credentials.json
 **/__pycache__/
 *.pyc
 azure-credentials-min.json
+azure-credentials-min.json
